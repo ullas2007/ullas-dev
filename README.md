@@ -3,3 +3,5 @@ Hi, I am Ullas M J. I am an undergraduate Computer Science and Information Techn
 Skill: Learning C, Python, and backend development.
 
 Interest: Interested in embedded systems and machine learning, ethical hacking.
+
+Goal: Build impactful AI and hardware projects.
